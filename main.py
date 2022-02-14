@@ -7,7 +7,7 @@ import pandas as pd
 
 
 
-file=open("FILE NAME","r")  # ENTER FILE PATH - isimler.txt
+file=open("FILE NAME","r")  # ENTER FILE PATH - comments.txt
 nameList=[]
 
 for name in file.readlines():
